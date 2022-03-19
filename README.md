@@ -13,4 +13,4 @@ https://lenantino.github.io/run-buddy
 ## Contribution
 Made with ❤️ by [David]
 
-### ©️2019 Run Buddy, Inc 
+### ©️2019 Run Buddy, Inc
